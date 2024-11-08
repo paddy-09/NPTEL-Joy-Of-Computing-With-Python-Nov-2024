@@ -9,8 +9,7 @@
 
 2. **Which block moves the cat as described in the previous question ?**
    <ul>
-      <li style="list-style-type: circle;"></li>
-      ![Screenshot (395)](https://github.com/user-attachments/assets/41b2bf52-cc87-4896-a98b-819de8938fa9)
+      <li style="list-style-type: circle;"></li>![Screenshot (395)](https://github.com/user-attachments/assets/41b2bf52-cc87-4896-a98b-819de8938fa9)
       
    </ul>
 
@@ -71,9 +70,9 @@
    </ul>
 
 10. **What task does the block below accomplish ?**
-   <ul>
-       <li style="list-style-type: circle;">They are used to make the computer store program data into SSD.</li>
+    <ul>
+      <li style="list-style-type: circle;">They are used to make the computer store program data into SSD.</li>
       <li style="list-style-type: circle;">They help in storing and retrieval of information/data while a task on the machine is running. :white_check_mark:</li>
       <li style="list-style-type: circle;">They simplify a task which involves processing repetitive procedures.They simplify a task which involves processing repetitive procedures.</li>
       <li style="list-style-type: circle;">They help in running multiple tasks parallel to each other.</li>
-   </ul>
+    </ul>
