@@ -3,6 +3,7 @@
 
 1. **The cat wants to move 100 steps away slowly, and by the time it finishes moving 100 steps, it needs to slowly rotate as well towards the opposite direction. Can both these tasks be accomplished by using a single loop in Scratch?**
    - Yes :white_check_mark:
+     
    - No
 
 2. **Which block moves the cat as described in the previous question?**
