@@ -16,7 +16,7 @@
 
   - ![Screenshot (395)3](https://github.com/user-attachments/assets/04987fd2-b47a-426e-82f3-8291c19770b5)
 
-3. **What does the cat say here ?**![Screenshot (396)](https://github.com/user-attachments/assets/79f45be0-4238-4362-ae8e-3cd52b88cd5b)
+3. **What does the cat say here ?** <br>![Screenshot (396)](https://github.com/user-attachments/assets/79f45be0-4238-4362-ae8e-3cd52b88cd5b)
    <ul>
       <li style="list-style-type: circle;">Says the number 4, for 1 second, 10 times and changes the value of number variable by multiplying previous value with 4. </li>
       <li style="list-style-type: circle;">Says the number 4, for 1 second, 10 times and changes the value of number variable by adding previous value with 4.</li>
