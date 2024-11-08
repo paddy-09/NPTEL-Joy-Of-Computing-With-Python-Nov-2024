@@ -9,7 +9,7 @@
 
 2. **Which block moves the cat as described in the previous question ?**
    <ul>
-      <li style="list-style-type: circle;"></li>
+      <li style="list-style-type: circle;">images/Screenshot (395).png</li>
       <li style="list-style-type: circle;">No</li>
    </ul>
 
