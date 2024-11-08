@@ -8,13 +8,13 @@
    </ul>
 
 2. **Which block moves the cat as described in the previous question ?**
-- ![Screenshot (395)](https://github.com/user-attachments/assets/41b2bf52-cc87-4896-a98b-819de8938fa9)
+ - ![Screenshot (395)](https://github.com/user-attachments/assets/41b2bf52-cc87-4896-a98b-819de8938fa9)
 
-- ![Screenshot (395)1](https://github.com/user-attachments/assets/66c0ce7d-32cb-468b-9b1d-d18159757b3b) :white_check_mark:
+ - ![Screenshot (395)1](https://github.com/user-attachments/assets/66c0ce7d-32cb-468b-9b1d-d18159757b3b) :white_check_mark:
 
-- ![Screenshot (395)2](https://github.com/user-attachments/assets/02d3036a-c9d8-4fb4-9f23-96e21433b630)
+ - ![Screenshot (395)2](https://github.com/user-attachments/assets/02d3036a-c9d8-4fb4-9f23-96e21433b630)
 
-- ![Screenshot (395)3](https://github.com/user-attachments/assets/04987fd2-b47a-426e-82f3-8291c19770b5)
+ - ![Screenshot (395)3](https://github.com/user-attachments/assets/04987fd2-b47a-426e-82f3-8291c19770b5)
 
 3. **What does the cat say here ?**![Screenshot (396)](https://github.com/user-attachments/assets/79f45be0-4238-4362-ae8e-3cd52b88cd5b)
    <ul>
