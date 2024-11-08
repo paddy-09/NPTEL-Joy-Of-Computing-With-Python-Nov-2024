@@ -12,7 +12,8 @@
       <li style="list-style-type: circle;"></li>
       ![Screenshot (395)](https://github.com/user-attachments/assets/41b2bf52-cc87-4896-a98b-819de8938fa9)
       <li style="list-style-type: circle;"></li>
-      ![Screenshot (395)1](https://github.com/user-attachments/assets/66c0ce7d-32cb-468b-9b1d-d18159757b3b):white_check_mark:
+      ![Screenshot (395)1](https://github.com/user-attachments/assets/66c0ce7d-32cb-468b-9b1d-d18159757b3b)
+      :white_check_mark:
       <li style="list-style-type: circle;"></li>
       ![Screenshot (395)2](https://github.com/user-attachments/assets/02d3036a-c9d8-4fb4-9f23-96e21433b630)
       <li style="list-style-type: circle;"></li>
