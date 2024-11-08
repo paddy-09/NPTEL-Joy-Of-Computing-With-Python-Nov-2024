@@ -78,5 +78,5 @@
       <li style="list-style-type: circle;">They are used to make the computer store program data into SSD.</li>
       <li style="list-style-type: circle;">They help in storing and retrieval of information/data while a task on the machine is running. :white_check_mark:</li>
       <li style="list-style-type: circle;">They simplify a task which involves processing repetitive procedures.They simplify a task which involves processing repetitive procedures.</li>
-      <li style="list-style-type: circle;">They help in running multiple tasks parallel to each other.</li>
+      <li style="list-style-type: circle;">They help in running multiple tasks parallel to each other. :white_check_mark: </li>
     </ul>
