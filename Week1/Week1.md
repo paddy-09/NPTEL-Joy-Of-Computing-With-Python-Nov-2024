@@ -64,14 +64,16 @@
    </ul>
 
 9. **In which of the following code blocks calculation of the squared distance between two points (10, 20) and (35, 49) is accomplished.**
-   <ul>
-      <li style="list-style-type: circle;">They are used to make the computer store program data into SSD.</li>
-      <li style="list-style-type: circle;">They help in storing and retrieval of information/data while a task on the machine is running. :white_check_mark:</li>
-      <li style="list-style-type: circle;">They simplify a task which involves processing repetitive procedures.They simplify a task which involves processing repetitive procedures.</li>
-      <li style="list-style-type: circle;">They help in running multiple tasks parallel to each other.</li>
-   </ul>
+ - ![Screenshot (398)](https://github.com/user-attachments/assets/38c95bcb-b119-4742-b8c2-769183c73489)
+
+  - ![Screenshot (398)1](https://github.com/user-attachments/assets/cd52701a-ef51-4c0b-a587-ed401c856156)
+
+  - ![Screenshot (399)2](https://github.com/user-attachments/assets/9559de65-a9ba-47fc-9f6d-161e81d4c01c)
+
+  - ![Screenshot (399)3](https://github.com/user-attachments/assets/33a5e077-eaf6-466e-90be-8dacd5de23e5)
 
 10. **What task does the block below accomplish ?**
+    ![Screenshot (400)](https://github.com/user-attachments/assets/84a1c528-76a5-4ca3-b6ea-7ca531a784af)
     <ul>
       <li style="list-style-type: circle;">They are used to make the computer store program data into SSD.</li>
       <li style="list-style-type: circle;">They help in storing and retrieval of information/data while a task on the machine is running. :white_check_mark:</li>
