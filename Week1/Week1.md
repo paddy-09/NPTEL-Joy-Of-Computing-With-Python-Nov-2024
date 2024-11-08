@@ -9,8 +9,7 @@
 
 2. **Which block moves the cat as described in the previous question ?**
    <ul>
-      <li style="list-style-type: circle;">![Screenshot (395)](https://github.com/user-attachments/assets/c4f5a5ea-e528-476e-9a5b-172de31a33f6)
-nshot (395).png</li>
+      <li style="list-style-type: circle;">![Screenshot (395)](https://github.com/user-attachments/assets/c4f5a5ea-e528-476e-9a5b-172de31a33f6)</li>
       <li style="list-style-type: circle;">No</li>
    </ul>
 
