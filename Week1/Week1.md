@@ -4,6 +4,7 @@
 1. **The cat wants to move 100 steps away slowly, and by the time it finishes moving 100 steps, it needs to slowly rotate as well towards the opposite direction. Can both these tasks be accomplished by using single loop in scratch?**
    
    - Yes :white_check_mark:
+     
    - No
 
 2. **Which block moves the cat as described in the previous question ?**
@@ -18,9 +19,12 @@
 
 3. **What does the cat say here ?** <br>![Screenshot (396)](https://github.com/user-attachments/assets/79f45be0-4238-4362-ae8e-3cd52b88cd5b)
   
-      - Says the number 4, for 1 second, 10 times and changes the value of number variable by multiplying previous value with 4. 
+      - Says the number 4, for 1 second, 10 times and changes the value of number variable by multiplying previous value with 4.
+         
       - Says the number 4, for 1 second, 10 times and changes the value of number variable by adding previous value with 4.
+        
       - Says the number 4, and its multiples each for 1 second, till 40 and changes the value of number variable by multiplying previous value with 4.
+        
       - Says the number 4, and its multiples each for 1 second, till 40 and changes the value of number variable by adding previous value with 4. :white_check_mark:
       
 4. **From the previous question, what is the value of number variable after the loop ends ?**
