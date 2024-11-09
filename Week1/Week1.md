@@ -6,7 +6,8 @@
    
     &#9679; No
 
-3. **Which block moves the cat as described in the previous question?**
+2. **Which block moves the cat as described in the previous question?**
+   
     &#9679; ![Screenshot (395)](https://github.com/user-attachments/assets/41b2bf52-cc87-4896-a98b-819de8938fa9)
    
     &#9679; ![Screenshot (395)1](https://github.com/user-attachments/assets/66c0ce7d-32cb-468b-9b1d-d18159757b3b) :white_check_mark:
