@@ -14,11 +14,11 @@
 3. **Which of the following code blocks print - ”Hello Ram Lakshman and Hanuman !” ?**
    
    
-    &#9679; ![Screenshot (402)](https://github.com/user-attachments/assets/152c5ad4-059b-4717-b7d8-9f263a013faf)
+    &#9679; ![Screenshot (402)](https://github.com/user-attachments/assets/152c5ad4-059b-4717-b7d8-9f263a013faf) :white_check_mark:
 
     &#9679; ![Screenshot (402)1](https://github.com/user-attachments/assets/c94ede8e-b01a-42ba-a2a5-0af04f21b648)
    
-    &#9679; ![Screenshot (402)2](https://github.com/user-attachments/assets/3bbf7f34-5bdc-4877-8b05-e430ab0f4b56)
+    &#9679; ![Screenshot (402)2](https://github.com/user-attachments/assets/3bbf7f34-5bdc-4877-8b05-e430ab0f4b56) :white_check_mark:
    
     &#9679; ![Screenshot (402)3](https://github.com/user-attachments/assets/73b7feb2-92c7-4e56-b599-4f464ffab163)
 
