@@ -1,4 +1,4 @@
-# Week 1 Quiz :bulb:
+# Week 2 Quiz :bulb:
 ***
 
 1. **Statement : If a variable is assigned multiple times, the latest value is not stored in the variable**
@@ -32,37 +32,36 @@
    
     &#9679; int(input())
     
-    &#9679;  a = input()
+    &#9679;  a = input() <br/>
              a = int(a)
 
-7. **From the previous question, what is the value of the number variable after the loop ends?**
+7. **The following program outputs 722 -**
+   <todo>
+   **For what value of a does the code output 8 ?**
+    &#9679; 2
    
-    &#9679; 40
+    &#9679; 1 
    
-    &#9679; 44 :white_check_mark:
+    &#9679; 4 :white_check_mark:
    
-    &#9679; 36
-   
-    &#9679; 4  
+    &#9679; 6 
 
-8. **Let the answer for the previous question be stored in variable x. What does the cat say after the execution of the loop?**
+9. **What does previous question calculate ?**
    
-   ![Screenshot (397)](https://github.com/user-attachments/assets/0ae62837-52cf-4463-b96d-32ca6655d50a)
+    &#9679; Calculates the factorial of a.
    
-    &#9679; -16
+    &#9679; Calculates the factorial of a and adds 2.
    
-    &#9679; -5
+    &#9679; Calculates the a multiples of a starting from 1 and adds 2. 
    
-    &#9679; -29 :white_check_mark:
-   
-    &#9679; -44  
+    &#9679; Calculates the factorial of a-1 and adds 2. :white_check_mark:
 
-10. **Which of the following is a use case of variables in programming?**
+10. **Which loop is used to perform a set of repetitive tasks based on condition in Python?**
     
-    &#9679; They are used to make the computer store program data into SSD.
+    &#9679; **while** loop :white_check_mark:
     
-    &#9679; They help in storing and retrieval of information/data while a task on the machine is running. :white_check_mark:
+    &#9679; **for** loop
     
-    &#9679; They simplify a task that involves processing repetitive procedures.
+    &#9679; **do-while** loop
     
-    &#9679; They help in running multiple tasks parallel to each other.  
+    &#9679; **while-range** loop
