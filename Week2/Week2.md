@@ -38,6 +38,7 @@
 7. **The following program outputs 722 -**
    <todo>
    **For what value of a does the code output 8 ?**
+   
     &#9679; 2
    
     &#9679; 1 
@@ -65,3 +66,47 @@
     &#9679; **do-while** loop
     
     &#9679; **while-range** loop
+
+10. **What happens when the condition inside the if and while evaluate to false ?**
+    
+    &#9679; Python interpreter ignores the if/while blocks, and halts the program. 
+    
+    &#9679; Python interpreter ignores the if/while blocks, and proceeds the program from the lines after the if/while block. :white_check_mark:
+    
+    &#9679; Python interpreter executes the if/while blocks, and rest of the program.
+    
+    &#9679; Python interpreter executes the if/while, and the programs runs in an infinite loop.
+
+10. **The following program might/might not have an infinite loop. Does the program have infinite loop ?**
+    <todo>
+
+    &#9679; No, the program doesn’t have infinite loop.
+    
+    &#9679;  Yes, it can be prevented by updating the value of a before the if block at line 3. :white_check_mark:
+    
+    &#9679; Yes, it can be prevented by removing both the if blocks inside the while loop.
+    
+    &#9679;  Yes, but it cannot be prevented
+
+10. **For which of the following values of name and age variables does the following code print ”You are lucky”?**
+    <todo>
+
+    &#9679; aryan, 20 
+    
+    &#9679; arjun, 19
+    
+    &#9679; aakash, 17
+    
+    &#9679; aatreya, 18 :white_check_mark:
+
+10. **For which of the options among the previous question, the program doesn’t print anything.**
+    
+    &#9679; aryan, 20 
+    
+    &#9679; arjun, 19
+    
+    &#9679; aakash, 17 :white_check_mark:
+    
+    &#9679; aatreya, 18
+
+
