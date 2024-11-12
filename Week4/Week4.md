@@ -3,13 +3,13 @@
 
 1. **Which of the following options provides the general formula for the magic constant of a magic square of size n, where all elements are distinct numbers from 1 to n^2?**
 
-    &#9679; n(n^2+1)/2 :white_check_mark:
+    &#9679; n(n^<sup>2</sup>+1)/2 :white_check_mark:
 
-    &#9679; n^3/2
+    &#9679; n<sup>3</sup>/2
 
-    &#9679; (n3+2)/2
+    &#9679; (n<sup>3</sup>+2)/2
 
-    &#9679; (n^4+n^2)/2n :white_check_mark:
+    &#9679; (n<sup>4</sup>+n<sup>2</sup>)/2n :white_check_mark:
      
 3. **In the below code -** <br/>
      ![Screenshot (406)](https://github.com/user-attachments/assets/dadad510-11c9-42d6-b962-d699ff5ce02c) <br/>
