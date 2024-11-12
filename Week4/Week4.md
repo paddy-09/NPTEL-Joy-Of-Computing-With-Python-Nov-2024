@@ -1,4 +1,4 @@
-![Screenshot (411)](https://github.com/user-attachments/assets/6cf7b246-8d3f-42b9-af7b-ba5cf1c21495)# Week 4 Quiz :bulb:
+# Week 4 Quiz :bulb:
 ***
 
 1. **Which of the following options provides the general formula for the magic constant of a magic square of size n, where all elements are distinct numbers from 1 to n^2?**
@@ -42,9 +42,9 @@
     Accepted Answers:
     (Type: Numeric) 49
 
-11. **Calculate the magic constant for 4x4 square, where all elements are distinct numbers from 1 to 16, is it same as the magic constant for Ramanujan’s magic square ?<br/>
+11. **Calculate the magic constant for 4x4 square, where all elements are distinct numbers from 1 to 16, is it same as the magic constant for Ramanujan’s magic square ?**<br/>
 
-    If yes, enter 0, else enter the absolute difference between the two.
+    **If yes, enter 0, else enter the absolute difference between the two.
     Hint: Search the about Ramanujan’s magic square.** <br/>
    
     Accepted Answers:
