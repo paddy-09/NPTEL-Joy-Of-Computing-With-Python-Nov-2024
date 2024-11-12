@@ -3,7 +3,7 @@
 
 1. **Which of the following options provides the general formula for the magic constant of a magic square of size n, where all elements are distinct numbers from 1 to n^2?**
 
-    &#9679; n(n^<sup>2</sup>+1)/2 :white_check_mark:
+    &#9679; n(n<sup>2</sup>+1)/2 :white_check_mark:
 
     &#9679; n<sup>3</sup>/2
 
@@ -11,23 +11,24 @@
 
     &#9679; (n<sup>4</sup>+n<sup>2</sup>)/2n :white_check_mark:
      
-3. **In the below code -** <br/>
-     ![Screenshot (406)](https://github.com/user-attachments/assets/dadad510-11c9-42d6-b962-d699ff5ce02c) <br/>
-     **For what value of n does the program print 21 ?** <br/>
-     
-     Accepted Answer (Type: Numeric) 7
-
-5. **From the previous question, for what values of n is the number 7 appended to list a.**
+3. **What would the magic constant be for a magic square of size 6, given that all elements in the square are distinct numbers from 1 to 36?**
    
-    &#9679; 7 
+    &#9679; 72 
+
+    &#9679; 111 :white_check_mark:
+
+    &#9679; 109
+
+    &#9679; 110
+
+5. **Does transposing the magic square give us a new magic square ?**
+   
+    &#9679; Yes
  
-    &#9679; 6  
-   
-    &#9679; 8 :white_check_mark:  
-    
-    &#9679; 9 :white_check_mark:  
+    &#9679; No :white_check_mark: 
 
-7. **What does the following code perform ?** <br/>
+7. **Which of the following are valid magic squares ?** <br/>
+     <todo>
    ![Screenshot (407)](https://github.com/user-attachments/assets/9fc853dd-61c1-4366-ac67-000d7ba4c8fc) <br/>
    
     &#9679; It converts any input list into a new list which is filled with some alternative even and odd numbers.
@@ -38,25 +39,56 @@
    
     &#9679; It converts any input list into a new list, which follows no pattern.
 
-9. **From the previous question, if the option -
-"It converts any input list into a new list which is filled with some alternative even and odd numbers."
-is incorrect, Can you make changes to code such that this option is true ?**
+9. **What is the minimum number of people required to ensure that at least two of them share the same 30-minute birth interval? The intervals start from 12:00 AM and each interval lasts for half an hour.**<br/>
  
-    &#9679; No, it is not possible to make such changes.
+    Accepted Answers:
+    (Type: Numeric) 49
+
+11. **Calculate the magic constant for 4x4 square, where all elements are distinct numbers from 1 to 16, is it same as the magic constant for Ramanujan’s magic square ?<br/>
+
+    If yes, enter 0, else enter the absolute difference between the two.
+    Hint: Search the about Ramanujan’s magic square.** <br/>
    
-    &#9679; No, the option is already correct.
-   
-    &#9679; Yes, we can make changes. :white_check_mark:
+    Accepted Answers:
+    (Type: Numeric) 105
 
-11. **If file.txt exists, Does the code successfully run ?** <br/>
-    ![Screenshot (408)](https://github.com/user-attachments/assets/d438fba5-6d24-42f0-8e2c-67b89fada170)<br/>
-
-    &#9679; Yes 
+10. **What task does function1() perform ?**
+    <todo>
     
-    &#9679; No :white_check_mark:
-
-10. **Which of the following are examples of Social Computing ?**
-    
-    &#9679; StackOverflow :white_check_mark:  
+    &#9679; Calculate factorial of number n. 
  
-    &#9679; Wikipedia :white_check_mark:  
+    &#9679; Calculate factors of number n.
+
+    &#9679; Calculate prime factors of number n.
+
+    &#9679; Calculate factors of number n excluding n. :white_check_mark:
+    
+10. **For what n1,n2 flag will the variable flag inside function2() be not equal to true ?**
+    
+    &#9679; 2,3
+ 
+    &#9679; 0,0 :white_check_mark:
+
+    &#9679; 1,1 :white_check_mark:
+
+    &#9679; 1,0 :white_check_mark:
+
+10. **If all possible pairs of prime numbers between 0 and 20, are given to n1 and n2, for how many pairs would function2 print ”Completed” ?**
+    
+    &#9679; It will not print ”Completed” for any pair.
+ 
+    &#9679; It will print ”Completed” only for pairs (2,3)(3,5),(2,5), and for the remaining it would not print ”Completed”.
+
+    &#9679; It will print ”Completed” only for pair (2,3), and for the remaining other pairs of primes it would not print ”Completed”.
+    
+    &#9679; It will print ”Completed” for all pairs of primes between 0 and 20. :white_check_mark:
+
+10. **If numbers of pairs of primes which result in function2 to print ”Completed” are greater than 0, Can we edit the code in function2() so that ”Completed” is never printed for any pair of primes ?**
+    
+    &#9679; Yes, we can change the logic for setting flag variable to True.
+ 
+    &#9679; Yes, we can change/increase the threshold for length of list2 in the last if block. :white_check_mark:
+    
+    &#9679; No, it is logically not possible.
+    
+    &#9679; Yes, we can change the initial value of flag to True, instead of False.
