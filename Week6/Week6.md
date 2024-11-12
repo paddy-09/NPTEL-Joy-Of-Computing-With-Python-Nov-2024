@@ -32,7 +32,7 @@
 
 7. **The letter 'e' is the most frequently occurring letter in the English language. Suppose we apply a Substitution Cipher where 'e' is mapped to 'a', and all other letters are uniquely mapped to different letters. If we encrypt a very long English storybook using this cipher, will the frequency of 'a' be the highest in the encrypted text?**
 <br/>
-** Hint: Search the internet for more info, if needed** 
+** Hint: Search the internet for more info, if needed** <br/>
     &#9679; Yes, it would be same as ’e’ in the original text :white_check_mark: 
  
     &#9679; Yes, it would be higher than ’e’ in the original text.
@@ -43,7 +43,7 @@
    
 9. **Could we check frequency of letters in a long ciphertext and map them to frequency of letters in English to decrypt the message?**
 <br/>
-**Hint: Search the internet for more info, if needed.**
+**Hint: Search the internet for more info, if needed.**<br/>
     &#9679; Yes, it is possible. :white_check_mark: 
 
     &#9679; No, it is not possible.
