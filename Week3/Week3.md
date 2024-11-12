@@ -1,4 +1,4 @@
-# Week 2 Quiz :bulb:
+![Screenshot (407)](https://github.com/user-attachments/assets/4eccf1e3-0fc2-45aa-a6b0-3497f254da6b)# Week 2 Quiz :bulb:
 ***
 
 1. **Which of the following is/are true statement(s)?**
@@ -12,8 +12,9 @@
     &#9679; We need to specify required size of list while creating a new list variable.
      
 3. **In the below code -** <br/>
-     <todo>
-     **For what value of n does the program print 21 ?**
+     ![Screenshot (406)](https://github.com/user-attachments/assets/dadad510-11c9-42d6-b962-d699ff5ce02c)
+     **For what value of n does the program print 21 ?** <br/>
+     
      Accepted Answer (Type: Numeric) 7
 
 5. **From the previous question, for what values of n is the number 7 appended to list a.**
@@ -27,7 +28,8 @@
     &#9679; 9 :white_check_mark:  
 
 7. **What does the following code perform ?** <br/>
-  <todo>
+   ![Screenshot (407)](https://github.com/user-attachments/assets/9fc853dd-61c1-4366-ac67-000d7ba4c8fc)
+   
     &#9679; It converts any input list into a new list which is filled with some alternative even and odd numbers.
    
     &#9679; It converts any input list into a new list such that at even indices, the value is a multiple of an even number and at odd indices, the value is either odd or even number. :white_check_mark:
@@ -47,8 +49,8 @@ is incorrect, Can you make changes to code such that this option is true ?**
     &#9679; Yes, we can make changes. :white_check_mark:
 
 11. **If file.txt exists, Does the code successfully run ?**
-    <todo>
-    
+    ![Screenshot (408)](https://github.com/user-attachments/assets/d438fba5-6d24-42f0-8e2c-67b89fada170)
+
     &#9679; Yes 
     
     &#9679; No :white_check_mark:
@@ -64,8 +66,8 @@ is incorrect, Can you make changes to code such that this option is true ?**
     &#9679; None 
 
 10. **What does the following code print for n = 3?**
-    <todo>
-    
+    ![Screenshot (409)](https://github.com/user-attachments/assets/26664256-7659-4fc5-9fc4-2280c6ca6273)
+
     &#9679; WE KNOW THE WISDOM OF SERIES :white_check_mark:  
  
     &#9679; WE ARE YET TO KNOW MANY THINGS
@@ -83,6 +85,7 @@ is incorrect, Can you make changes to code such that this option is true ?**
 11. What does the code in question 8, calculate ?<br/>
 Can you say what the values of k and b are if n = 10294343763482 x 102309.<br/>
 If values of k and b are different, enter 0, else enter value of k <br/>
+
 Accepted Answers:
 (Type: Numeric) 56
 
