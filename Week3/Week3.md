@@ -1,4 +1,4 @@
-![Screenshot (407)](https://github.com/user-attachments/assets/4eccf1e3-0fc2-45aa-a6b0-3497f254da6b)# Week 2 Quiz :bulb:
+# Week 3 Quiz :bulb:
 ***
 
 1. **Which of the following is/are true statement(s)?**
@@ -12,7 +12,7 @@
     &#9679; We need to specify required size of list while creating a new list variable.
      
 3. **In the below code -** <br/>
-     ![Screenshot (406)](https://github.com/user-attachments/assets/dadad510-11c9-42d6-b962-d699ff5ce02c)
+     ![Screenshot (406)](https://github.com/user-attachments/assets/dadad510-11c9-42d6-b962-d699ff5ce02c) <br/>
      **For what value of n does the program print 21 ?** <br/>
      
      Accepted Answer (Type: Numeric) 7
@@ -28,7 +28,7 @@
     &#9679; 9 :white_check_mark:  
 
 7. **What does the following code perform ?** <br/>
-   ![Screenshot (407)](https://github.com/user-attachments/assets/9fc853dd-61c1-4366-ac67-000d7ba4c8fc)
+   ![Screenshot (407)](https://github.com/user-attachments/assets/9fc853dd-61c1-4366-ac67-000d7ba4c8fc) <br/>
    
     &#9679; It converts any input list into a new list which is filled with some alternative even and odd numbers.
    
@@ -48,8 +48,8 @@ is incorrect, Can you make changes to code such that this option is true ?**
    
     &#9679; Yes, we can make changes. :white_check_mark:
 
-11. **If file.txt exists, Does the code successfully run ?**
-    ![Screenshot (408)](https://github.com/user-attachments/assets/d438fba5-6d24-42f0-8e2c-67b89fada170)
+11. **If file.txt exists, Does the code successfully run ?** <br/>
+    ![Screenshot (408)](https://github.com/user-attachments/assets/d438fba5-6d24-42f0-8e2c-67b89fada170)<br/>
 
     &#9679; Yes 
     
@@ -65,8 +65,8 @@ is incorrect, Can you make changes to code such that this option is true ?**
     
     &#9679; None 
 
-10. **What does the following code print for n = 3?**
-    ![Screenshot (409)](https://github.com/user-attachments/assets/26664256-7659-4fc5-9fc4-2280c6ca6273)
+10. **What does the following code print for n = 3?** <br/>
+    ![Screenshot (409)](https://github.com/user-attachments/assets/26664256-7659-4fc5-9fc4-2280c6ca6273)<br/>
 
     &#9679; WE KNOW THE WISDOM OF SERIES :white_check_mark:  
  
