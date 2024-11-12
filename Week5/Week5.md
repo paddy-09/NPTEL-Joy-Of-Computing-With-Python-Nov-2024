@@ -33,7 +33,7 @@ courseData
 final_choice
  is equal to 2 ?
 **
-   <tooo>
+    ![Screenshot (412)](https://github.com/user-attachments/assets/faec19d9-e2e9-48f0-8ff5-603856f78837)<br/>
     &#9679; True :white_check_mark: 
  
     &#9679; (2**90) % 2 == 0 :white_check_mark:
@@ -62,8 +62,10 @@ final_choice
 
     &#9679; Image data
    
-11. **What does this program print in the end ?** <br/> <too>
-   
+11. **What does this program print in the end ?** <br/> 
+     ![Screenshot (413)](https://github.com/user-attachments/assets/c7638db7-4e94-4604-bf6f-4e6750cf628a)<br/>
+
+
     &#9679; Fraction of throws where both players showed different symbol(rock/paper/scissors)
  
     &#9679; Fraction of throws where both players showed rock. 
