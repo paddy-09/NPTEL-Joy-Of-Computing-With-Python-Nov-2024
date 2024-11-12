@@ -33,8 +33,8 @@
     &#9679;  a = input() <br/>
              a = int(a)
 
-7. **The following program outputs 722 -**
-   ![Screenshot (403)](https://github.com/user-attachments/assets/b3f7d8c9-6782-45a6-b779-ceb98213a08a)
+7. **The following program outputs 722 -** <br/>
+   ![Screenshot (403)](https://github.com/user-attachments/assets/b3f7d8c9-6782-45a6-b779-ceb98213a08a) <br/>
    **For what value of a does the code output 8 ?**
    
     &#9679; 2
