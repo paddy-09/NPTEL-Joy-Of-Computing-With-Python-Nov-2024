@@ -1,4 +1,4 @@
-# Week 4 Quiz :bulb:
+![Screenshot (411)](https://github.com/user-attachments/assets/6cf7b246-8d3f-42b9-af7b-ba5cf1c21495)# Week 4 Quiz :bulb:
 ***
 
 1. **Which of the following options provides the general formula for the magic constant of a magic square of size n, where all elements are distinct numbers from 1 to n^2?**
@@ -28,16 +28,14 @@
     &#9679; No :white_check_mark: 
 
 7. **Which of the following are valid magic squares ?** <br/>
-     <todo>
-   ![Screenshot (407)](https://github.com/user-attachments/assets/9fc853dd-61c1-4366-ac67-000d7ba4c8fc) <br/>
+     
+    &#9679; ![Screenshot (411)](https://github.com/user-attachments/assets/97a4bfc1-975e-46ce-90f5-33304dfd269f) :white_check_mark: 
    
-    &#9679; It converts any input list into a new list which is filled with some alternative even and odd numbers.
-   
-    &#9679; It converts any input list into a new list such that at even indices, the value is a multiple of an even number and at odd indices, the value is either odd or even number. :white_check_mark:
-   
-    &#9679; It converts any input list into a new list such that at even indices, the value is multiple of 2 and at odd indices, the value is multiple of 3.
-   
-    &#9679; It converts any input list into a new list, which follows no pattern.
+    &#9679; ![Screenshot (411)1](https://github.com/user-attachments/assets/e7610887-f6da-440f-a99c-5460ff5ccd6a) :white_check_mark: 
+
+    &#9679; ![Screenshot (411)2](https://github.com/user-attachments/assets/3c157c7b-1909-4b05-9d6f-531450486db3) :white_check_mark: 
+
+    &#9679; ![Screenshot (411)3](https://github.com/user-attachments/assets/0ed900e6-3ddd-4e39-9b91-e9f23c4e1d6a) :white_check_mark: 
 
 9. **What is the minimum number of people required to ensure that at least two of them share the same 30-minute birth interval? The intervals start from 12:00 AM and each interval lasts for half an hour.**<br/>
  
@@ -52,9 +50,9 @@
     Accepted Answers:
     (Type: Numeric) 105
 
-10. **What task does function1() perform ?**
-    <todo>
-    
+10. **What task does function1() perform ?** <br/>
+    ![Screenshot (410)](https://github.com/user-attachments/assets/f2b85408-574e-4ab6-855e-5a171eb3b5ae)
+
     &#9679; Calculate factorial of number n. 
  
     &#9679; Calculate factors of number n.
