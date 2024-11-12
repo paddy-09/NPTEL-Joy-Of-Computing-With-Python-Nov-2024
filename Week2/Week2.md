@@ -12,19 +12,17 @@
     &#9679; True, the variable stores the value from the second-last assignment.
      
 3. **Which of the following code blocks print - ”Hello Ram Lakshman and Hanuman !” ?**
-   <to do>
    
-    &#9679; ![Screenshot (395)](https://github.com/user-attachments/assets/41b2bf52-cc87-4896-a98b-819de8938fa9)
    
-    &#9679; ![Screenshot (395)1](https://github.com/user-attachments/assets/66c0ce7d-32cb-468b-9b1d-d18159757b3b) :white_check_mark:
+    &#9679; ![Screenshot (402)](https://github.com/user-attachments/assets/152c5ad4-059b-4717-b7d8-9f263a013faf)
+
+    &#9679; ![Screenshot (402)1](https://github.com/user-attachments/assets/c94ede8e-b01a-42ba-a2a5-0af04f21b648)
    
-    &#9679; ![Screenshot (395)2](https://github.com/user-attachments/assets/02d3036a-c9d8-4fb4-9f23-96e21433b630)
+    &#9679; ![Screenshot (402)2](https://github.com/user-attachments/assets/3bbf7f34-5bdc-4877-8b05-e430ab0f4b56)
    
-    &#9679; ![Screenshot (395)3](https://github.com/user-attachments/assets/04987fd2-b47a-426e-82f3-8291c19770b5)  
+    &#9679; ![Screenshot (402)3](https://github.com/user-attachments/assets/73b7feb2-92c7-4e56-b599-4f464ffab163)
 
 5. **What aren’t the correct ways to inform python that input is an integer ?**
-   
-   ![Screenshot (396)](https://github.com/user-attachments/assets/79f45be0-4238-4362-ae8e-3cd52b88cd5b)
    
     &#9679; in(input()) :white_check_mark:  
  
@@ -36,7 +34,7 @@
              a = int(a)
 
 7. **The following program outputs 722 -**
-   <todo>
+   ![Screenshot (403)](https://github.com/user-attachments/assets/b3f7d8c9-6782-45a6-b779-ceb98213a08a)
    **For what value of a does the code output 8 ?**
    
     &#9679; 2
@@ -78,8 +76,9 @@
     &#9679; Python interpreter executes the if/while, and the programs runs in an infinite loop.
 
 10. **The following program might/might not have an infinite loop. Does the program have infinite loop ?**
-    <todo>
-
+    
+    ![Screenshot (404)](https://github.com/user-attachments/assets/c5d47cc9-907a-406c-95b5-c634ab90c36f)
+    
     &#9679; No, the program doesn’t have infinite loop.
     
     &#9679;  Yes, it can be prevented by updating the value of a before the if block at line 3. :white_check_mark:
@@ -89,8 +88,9 @@
     &#9679;  Yes, but it cannot be prevented
 
 10. **For which of the following values of name and age variables does the following code print ”You are lucky”?**
-    <todo>
 
+    ![Screenshot (405)](https://github.com/user-attachments/assets/1311dfbe-ca7b-4d13-8179-d708fd39933b)
+    
     &#9679; aryan, 20 
     
     &#9679; arjun, 19
